@@ -11,3 +11,5 @@ Excuse me - Anteeksi
 Footrest - Rahi
 Twenty - Kaksikymmentä
 Talk - Puhua
+Construction worker - Rakennusmies
+Student - Opiskelija
