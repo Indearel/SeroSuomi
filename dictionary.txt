@@ -13,3 +13,4 @@ Twenty - Kaksikymmentä
 Talk - Puhua
 Construction worker - Rakennusmies
 Student - Opiskelija
+Cry - Itkeä
