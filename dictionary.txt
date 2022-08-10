@@ -14,3 +14,4 @@ Talk - Puhua
 Construction worker - Rakennusmies
 Student - Opiskelija
 Cry - Itkeä
+Actor - Näyttelijä
