@@ -15,3 +15,4 @@ Construction worker - Rakennusmies
 Student - Opiskelija
 Cry - Itkeä
 Actor - Näyttelijä
+Soap - Saippua
