@@ -16,3 +16,4 @@ Student - Opiskelija
 Cry - Itkeä
 Actor - Näyttelijä
 Soap - Saippua
+Whiteboard - Tussitaulu
