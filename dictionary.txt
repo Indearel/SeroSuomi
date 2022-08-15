@@ -18,3 +18,4 @@ Actor - Näyttelijä
 Soap - Saippua
 Whiteboard - Tussitaulu
 Door - Ovi
+Translate - Kääntää
