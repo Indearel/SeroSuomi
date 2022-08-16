@@ -19,3 +19,4 @@ Soap - Saippua
 Whiteboard - Tussitaulu
 Door - Ovi
 Translate - Kääntää
+Computer - Tietokone
