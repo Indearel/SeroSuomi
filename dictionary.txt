@@ -20,3 +20,4 @@ Whiteboard - Tussitaulu
 Door - Ovi
 Translate - Kääntää
 Computer - Tietokone
+Eraser - Pyyhekumi
