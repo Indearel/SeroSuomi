@@ -21,3 +21,4 @@ Door - Ovi
 Translate - Kääntää
 Computer - Tietokone
 Eraser - Pyyhekumi
+Sun - Aurinko
