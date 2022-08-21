@@ -24,3 +24,4 @@ Eraser - Pyyhekumi
 Sun - Aurinko
 Sponge- Pesusieni
 Tree - Puu
+Nighttime - Yö
