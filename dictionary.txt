@@ -25,3 +25,4 @@ Sun - Aurinko
 Sponge- Pesusieni
 Tree - Puu
 Nighttime - Yö
+Monday - Maanatai
