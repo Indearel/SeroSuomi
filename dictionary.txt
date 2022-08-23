@@ -26,3 +26,4 @@ Sponge- Pesusieni
 Tree - Puu
 Nighttime - Yö
 Monday - Maanatai
+Mircrowave - Mikroaaltouuni
