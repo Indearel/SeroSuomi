@@ -27,3 +27,4 @@ Tree - Puu
 Nighttime - Yö
 Monday - Maanatai
 Mircrowave - Mikroaaltouuni
+Bike - Polkupyörä
