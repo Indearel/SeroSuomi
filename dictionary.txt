@@ -31,3 +31,4 @@ Bike - Polkupyörä
 Onion - Pilkkoa
 Foreign exchange - Rahanvaihto
 Relaxed - Rentoutunut
+Wool - Villa
