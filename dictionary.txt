@@ -32,3 +32,4 @@ Onion - Pilkkoa
 Foreign exchange - Rahanvaihto
 Relaxed - Rentoutunut
 Wool - Villa
+Shower - Käydä suihkussa
