@@ -35,3 +35,6 @@ Wool - Villa
 Shower - Käydä suihkussa
 Exercise - Kuntoilu
 Teach - Opettaa
+T-shirt - T-paita
+Suit - Puku
+Chess - Shakki
