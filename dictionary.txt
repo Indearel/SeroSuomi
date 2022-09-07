@@ -40,3 +40,4 @@ Suit - Puku
 Chess - Shakki
 Urinate - Virtsata
 Flute - Huilu
+Weather - Sää
