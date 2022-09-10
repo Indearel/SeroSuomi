@@ -41,3 +41,4 @@ Chess - Shakki
 Urinate - Virtsata
 Flute - Huilu
 Weather - Sää
+Toothpick - Hammastikku
