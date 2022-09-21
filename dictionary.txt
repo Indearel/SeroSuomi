@@ -44,3 +44,4 @@ Weather - Sää
 Toothpick - Hammastikku
 School - Koulu
 Mushroom - Sieni
+Statue - Patsas
