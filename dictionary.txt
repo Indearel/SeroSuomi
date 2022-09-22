@@ -45,3 +45,4 @@ Toothpick - Hammastikku
 School - Koulu
 Mushroom - Sieni
 Statue - Patsas
+Dictionary - Sanakirja
