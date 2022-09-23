@@ -46,3 +46,4 @@ School - Koulu
 Mushroom - Sieni
 Statue - Patsas
 Dictionary - Sanakirja
+Boar - Villisika
