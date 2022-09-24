@@ -47,3 +47,4 @@ Mushroom - Sieni
 Statue - Patsas
 Dictionary - Sanakirja
 Boar - Villisika
+Screwdriver - Ruuvimeisseli
