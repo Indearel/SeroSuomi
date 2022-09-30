@@ -49,3 +49,5 @@ Dictionary - Sanakirja
 Boar - Villisika
 Screwdriver - Ruuvimeisseli
 Hill - Kukkula
+Change - Vaihtaa
+Cherry - Kirsikka
