@@ -48,4 +48,5 @@ Statue - Patsas
 Dictionary - Sanakirja
 Boar - Villisika
 Screwdriver - Ruuvimeisseli
+Change - Vaihtaa
 Cherry - Kirsikka
