@@ -43,3 +43,9 @@ Flute - Huilu
 Weather - Sää
 Toothpick - Hammastikku
 School - Koulu
+Mushroom - Sieni
+Statue - Patsas
+Dictionary - Sanakirja
+Boar - Villisika
+Screwdriver - Ruuvimeisseli
+Cherry - Kirsikka
