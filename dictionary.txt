@@ -51,3 +51,4 @@ Screwdriver - Ruuvimeisseli
 Hill - Kukkula
 Change - Vaihtaa
 Cherry - Kirsikka
+Gold - Kullanvärinen
