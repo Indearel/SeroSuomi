@@ -52,3 +52,4 @@ Hill - Kukkula
 Change - Vaihtaa
 Cherry - Kirsikka
 Gold - Kullanvärinen
+Cafe - Kahvila
