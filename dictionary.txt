@@ -53,3 +53,4 @@ Change - Vaihtaa
 Cherry - Kirsikka
 Gold - Kullanvärinen
 Cafe - Kahvila
+Church - Kirkko
