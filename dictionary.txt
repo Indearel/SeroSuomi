@@ -55,3 +55,4 @@ Gold - Kullanvärinen
 Cafe - Kahvila
 Church - Kirkko
 Thursday - Torstai
+Embarrassed - Vaivaantunut
