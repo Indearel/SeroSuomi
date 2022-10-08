@@ -57,3 +57,4 @@ Church - Kirkko
 Thursday - Torstai
 Embarrassed - Vaivaantunut
 Theater - Teatteri
+Thick - Tanakka
