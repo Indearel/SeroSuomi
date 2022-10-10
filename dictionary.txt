@@ -58,3 +58,4 @@ Thursday - Torstai
 Embarrassed - Vaivaantunut
 Theater - Teatteri
 Thick - Tanakka
+Police - Poliisi
