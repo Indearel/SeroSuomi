@@ -59,3 +59,4 @@ Embarrassed - Vaivaantunut
 Theater - Teatteri
 Thick - Tanakka
 Police - Poliisi
+Clock - Kello
