@@ -63,3 +63,4 @@ Clock - Kello
 Breakfast - Aamiainen
 Study - Opiskella
 Wolf - Susi
+Spring - Kevät
