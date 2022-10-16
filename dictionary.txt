@@ -56,7 +56,7 @@ Cafe - Kahvila
 Church - Kirkko
 Thursday - Torstai
 Embarrassed - Vaivaantunut
-Theater - TSeatteri
+Theater - Teatteri
 Thick - Tanakka
 Police - Poliisi
 Clock - Kello
