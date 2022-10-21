@@ -67,3 +67,5 @@ Spring - Kevät
 Buttocks - Takapuoli
 Apple - Omena
 Mist - Sumua
+Artist - Taiteilija
+Calm - Tyyni
