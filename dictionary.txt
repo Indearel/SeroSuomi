@@ -69,3 +69,5 @@ Apple - Omena
 Mist - Sumua
 Artist - Taiteilija
 Calm - Tyyni
+Finger - Sormi
+Child - Lapsi
