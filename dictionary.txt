@@ -71,3 +71,4 @@ Artist - Taiteilija
 Calm - Tyyni
 Finger - Sormi
 Child - Lapsi
+Deer - Peura
