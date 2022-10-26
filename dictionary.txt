@@ -72,3 +72,4 @@ Calm - Tyyni
 Finger - Sormi
 Child - Lapsi
 Deer - Peura
+Monkey - Apina
