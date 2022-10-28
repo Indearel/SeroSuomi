@@ -74,3 +74,4 @@ Child - Lapsi
 Deer - Peura
 Monkey - Apina
 Excited - Innostunut
+Bat -Lepakko
