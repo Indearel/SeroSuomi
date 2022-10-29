@@ -75,3 +75,4 @@ Deer - Peura
 Monkey - Apina
 Excited - Innostunut
 Bat -Lepakko
+Dizzy - Huimaava
