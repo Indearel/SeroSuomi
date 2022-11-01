@@ -77,3 +77,4 @@ Excited - Innostunut
 Bat -Lepakko
 Dizzy - Huimaava
 Dishwasher - Astianpesukone
+Receipt - Kuitti
