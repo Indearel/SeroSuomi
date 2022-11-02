@@ -78,3 +78,4 @@ Bat -Lepakko
 Dizzy - Huimaava
 Dishwasher - Astianpesukone
 Receipt - Kuitti
+Passport - Passi
