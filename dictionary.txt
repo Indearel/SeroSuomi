@@ -80,3 +80,4 @@ Dishwasher - Astianpesukone
 Receipt - Kuitti
 Passport - Passi
 White - Valkoinen
+River - Joki
