@@ -81,3 +81,5 @@ Receipt - Kuitti
 Passport - Passi
 White - Valkoinen
 River - Joki
+Nice - Mukava
+Grandfather - Isoisä
