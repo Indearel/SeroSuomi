@@ -84,3 +84,4 @@ River - Joki
 Nice - Mukava
 Grandfather - Isoisä
 Germany - Saksa
+Team - Joukkue
