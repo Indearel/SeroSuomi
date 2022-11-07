@@ -83,3 +83,4 @@ White - Valkoinen
 River - Joki
 Nice - Mukava
 Grandfather - Isoisä
+Germany - Saksa
