@@ -88,3 +88,4 @@ Team - Joukkue
 Disagree - Olla eri mieltä
 Giraffe - Kirahvi
 Birthday - Syntymäpäivä
+Read - Lukea
