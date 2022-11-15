@@ -90,3 +90,4 @@ Giraffe - Kirahvi
 Birthday - Syntymäpäivä
 Read - Lukea
 Sheep - Lammas
+Ugly - Ruma
