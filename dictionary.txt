@@ -91,3 +91,4 @@ Birthday - Syntymäpäivä
 Read - Lukea
 Sheep - Lammas
 Ugly - Ruma
+Strong - Vahva
