@@ -96,3 +96,5 @@ Itchy - Syyhy
 Lake - Järvi
 Music - Musiikki
 Economics - Taloustiede
+Interview - Haastattelu
+Record player - Levysoitin
