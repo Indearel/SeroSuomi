@@ -99,3 +99,4 @@ Economics - Taloustiede
 Interview - Haastattelu
 Record player - Levysoitin
 Rope - Köysi
+Telephone - Puhelin
