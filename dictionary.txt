@@ -102,3 +102,4 @@ Rope - Köysi
 Telephone - Puhelin
 Fox - Ketto
 Finals - Loppukilpailu
+Neccesary - Välttämätön
