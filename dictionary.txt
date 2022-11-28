@@ -103,3 +103,4 @@ Telephone - Puhelin
 Fox - Ketto
 Finals - Loppukilpailu
 Neccesary - Välttämätön
+Explain - Selittää
