@@ -104,3 +104,4 @@ Fox - Ketto
 Finals - Loppukilpailu
 Neccesary - Välttämätön
 Explain - Selittää
+Further - Edelleen
