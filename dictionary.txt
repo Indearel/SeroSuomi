@@ -105,3 +105,4 @@ Finals - Loppukilpailu
 Neccesary - Välttämätön
 Explain - Selittää
 Further - Edelleen
+Waterfall - Vesiputous
