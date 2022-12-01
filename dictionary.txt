@@ -106,3 +106,4 @@ Neccesary - Välttämätön
 Explain - Selittää
 Further - Edelleen
 Waterfall - Vesiputous
+Hair - Hiukset
