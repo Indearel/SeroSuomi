@@ -107,3 +107,4 @@ Explain - Selittää
 Further - Edelleen
 Waterfall - Vesiputous
 Hair - Hiukset
+Bathroom - Kylpyhuone
