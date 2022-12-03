@@ -108,3 +108,4 @@ Further - Edelleen
 Waterfall - Vesiputous
 Hair - Hiukset
 Bathroom - Kylpyhuone
+Sugar - Sokeri
