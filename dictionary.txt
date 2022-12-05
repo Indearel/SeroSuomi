@@ -110,3 +110,4 @@ Hair - Hiukset
 Bathroom - Kylpyhuone
 Sugar - Sokeri
 Duck - Ankka
+Letter - Kirjain
