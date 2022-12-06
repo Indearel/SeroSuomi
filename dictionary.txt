@@ -111,3 +111,4 @@ Bathroom - Kylpyhuone
 Sugar - Sokeri
 Duck - Ankka
 Letter - Kirjain
+Winter - Talvi
