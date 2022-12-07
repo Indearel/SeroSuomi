@@ -112,3 +112,4 @@ Sugar - Sokeri
 Duck - Ankka
 Letter - Kirjain
 Winter - Talvi
+Push - Työntää
