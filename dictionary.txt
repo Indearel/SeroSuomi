@@ -113,3 +113,4 @@ Duck - Ankka
 Letter - Kirjain
 Winter - Talvi
 Push - Työntää
+Town - Kaupunki
