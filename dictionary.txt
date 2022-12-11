@@ -116,3 +116,4 @@ Push - Työntää
 Town - Kaupunki
 Popular - Suosittu
 Boss - Johtaja
+Sandstorm - Hiekkamyrsky
