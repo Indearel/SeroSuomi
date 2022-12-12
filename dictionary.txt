@@ -117,3 +117,4 @@ Town - Kaupunki
 Popular - Suosittu
 Boss - Johtaja
 Sandstorm - Hiekkamyrsky
+Cat - Kissa
