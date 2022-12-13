@@ -118,3 +118,4 @@ Popular - Suosittu
 Boss - Johtaja
 Sandstorm - Hiekkamyrsky
 Cat - Kissa
+Shark - Hai
