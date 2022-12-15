@@ -119,3 +119,4 @@ Boss - Johtaja
 Sandstorm - Hiekkamyrsky
 Cat - Kissa
 Shark - Hai
+Can - Voida
