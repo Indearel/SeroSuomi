@@ -120,3 +120,4 @@ Sandstorm - Hiekkamyrsky
 Cat - Kissa
 Shark - Hai
 Can - Voida
+Lawyer - Lakimies
