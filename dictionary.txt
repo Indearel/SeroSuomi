@@ -121,3 +121,4 @@ Cat - Kissa
 Shark - Hai
 Can - Voida
 Lawyer - Lakimies
+Candy - Karkki
