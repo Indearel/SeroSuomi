@@ -123,3 +123,4 @@ Can - Voida
 Lawyer - Lakimies
 Candy - Karkki
 Switch - Kytkin
+Scissors - Sakset
