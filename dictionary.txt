@@ -126,3 +126,4 @@ Switch - Kytkin
 Scissors - Sakset
 Seat - Istumapaikka
 Shower - Käydä Suihkuissa
+Hole in the ice - Avanto
