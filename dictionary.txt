@@ -129,3 +129,4 @@ Shower - Käydä Suihkuissa
 Hole in the ice - Avanto
 Monday- Maanantai
 Question - Kysymys
+Fan - Tuuletin
