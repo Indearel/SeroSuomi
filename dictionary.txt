@@ -130,3 +130,4 @@ Hole in the ice - Avanto
 Monday- Maanantai
 Question - Kysymys
 Fan - Tuuletin
+Speed limit - Nopeusrajoitus
