@@ -134,3 +134,4 @@ Speed limit - Nopeusrajoitus
 Modern - Nykyaikainen
 Performance - Esitys
 Chalk - Liitu
+Bored - Tylsistynyt
