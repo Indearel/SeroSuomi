@@ -136,3 +136,4 @@ Performance - Esitys
 Chalk - Liitu
 Bored - Tylsistynyt
 Duty-free - Verovapaa
+Headphones - Kuulokkeet
