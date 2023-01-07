@@ -141,3 +141,4 @@ Thing - Asia
 Window - Ikkuna
 Nedle - Neula
 Clothes - Vaatteet
+Customer - Asiakas
