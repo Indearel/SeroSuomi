@@ -145,3 +145,4 @@ Customer - Asiakas
 Asleep - Unessa
 Receive - Vastaanottaa
 Carrot - Porkkana
+Hungry - Nälkäinen
