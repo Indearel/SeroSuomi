@@ -146,3 +146,4 @@ Asleep - Unessa
 Receive - Vastaanottaa
 Carrot - Porkkana
 Hungry - Nälkäinen
+Call - Soittaa
