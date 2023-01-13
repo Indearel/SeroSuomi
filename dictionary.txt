@@ -147,3 +147,4 @@ Receive - Vastaanottaa
 Carrot - Porkkana
 Hungry - Nälkäinen
 Call - Soittaa
+Grape - Viinirypäle
