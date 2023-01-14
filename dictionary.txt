@@ -148,3 +148,4 @@ Carrot - Porkkana
 Hungry - Nälkäinen
 Call - Soittaa
 Grape - Viinirypäle
+Item - Erä
