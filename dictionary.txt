@@ -152,3 +152,4 @@ Item - Erä
 Pitcher - Kannu
 Wireless - Langaton
 Possibility - Mahdollisuus
+Beaver - Majava
