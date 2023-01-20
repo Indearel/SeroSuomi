@@ -154,3 +154,4 @@ Wireless - Langaton
 Possibility - Mahdollisuus
 Beaver - Majava
 Happiness - Onni
+Minimum - Vähimmäismäärä
