@@ -156,3 +156,4 @@ Beaver - Majava
 Happiness - Onni
 Minimum - Vähimmäismäärä
 Refrigerator - Jääkaappi
+Blackboard - Liitutaulu
