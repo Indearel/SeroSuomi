@@ -160,3 +160,4 @@ Blackboard - Liitutaulu
 Cat - Kissa
 Boat - Vene
 Adventure - Seikkailu
+Heir - Perillinen
