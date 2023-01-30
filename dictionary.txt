@@ -161,3 +161,4 @@ Cat - Kissa
 Boat - Vene
 Adventure - Seikkailu
 Heir - Perillinen
+Raincoat - Sadetakki
