@@ -162,3 +162,4 @@ Boat - Vene
 Adventure - Seikkailu
 Heir - Perillinen
 Raincoat - Sadetakki
+Curtain - Verho
