@@ -164,4 +164,4 @@ Heir - Perillinen
 Raincoat - Sadetakki
 Curtain - Verho
 Fire - Tulipalo
-Match + Tulitikku
+Match - Tulitikku
