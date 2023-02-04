@@ -166,3 +166,4 @@ Curtain - Verho
 Fire - Tulipalo
 Match - Tulitikku
 Boy - Poika
+Ceiling - Sisäkatto
