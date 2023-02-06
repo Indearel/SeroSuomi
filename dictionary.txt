@@ -167,3 +167,4 @@ Fire - Tulipalo
 Match - Tulitikku
 Boy - Poika
 Ceiling - Sisäkatto
+Even though - Vaikka
