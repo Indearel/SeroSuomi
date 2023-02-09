@@ -170,3 +170,4 @@ Ceiling - Sisäkatto
 Even though - Vaikka
 Apricot - Aprikoosi
 Explode - Räjähtää
+Holiday - Juhlapäivä
