@@ -171,3 +171,4 @@ Even though - Vaikka
 Apricot - Aprikoosi
 Explode - Räjähtää
 Holiday - Juhlapäivä
+Boy - Poika
