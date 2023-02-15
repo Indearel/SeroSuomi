@@ -173,3 +173,5 @@ Explode - Räjähtää
 Holiday - Juhlapäivä
 Boy - Poika
 Negotiation - Neuvottelu
+Dictionary - Sanakirja
+Persikka - Peach
