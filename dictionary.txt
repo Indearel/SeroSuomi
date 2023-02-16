@@ -175,3 +175,4 @@ Boy - Poika
 Negotiation - Neuvottelu
 Dictionary - Sanakirja
 Persikka - Peach
+Scared - Pelästynyt
