@@ -177,3 +177,4 @@ Dictionary - Sanakirja
 Persikka - Peach
 Scared - Pelästynyt
 Translate - Kääntää
+Diarrhea - Ripuli
