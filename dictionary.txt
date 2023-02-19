@@ -178,3 +178,4 @@ Persikka - Peach
 Scared - Pelästynyt
 Translate - Kääntää
 Diarrhea - Ripuli
+Title - Otsikko
