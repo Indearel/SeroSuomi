@@ -179,3 +179,4 @@ Scared - Pelästynyt
 Translate - Kääntää
 Diarrhea - Ripuli
 Title - Otsikko
+Country - Maa
