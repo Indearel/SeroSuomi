@@ -180,3 +180,4 @@ Translate - Kääntää
 Diarrhea - Ripuli
 Title - Otsikko
 Country - Maa
+Difficult - Vaikea
