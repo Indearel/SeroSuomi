@@ -183,3 +183,4 @@ Country - Maa
 Difficult - Vaikea
 Beyond - Jälkeen
 Beautiful - Kaunis
+Table - Pöytä
