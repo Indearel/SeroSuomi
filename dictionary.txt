@@ -185,3 +185,4 @@ Beyond - Jälkeen
 Beautiful - Kaunis
 Table - Pöytä
 Cotton - Puuvilla
+Lawyer - Lakimies
