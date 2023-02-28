@@ -187,3 +187,4 @@ Table - Pöytä
 Cotton - Puuvilla
 Lawyer - Lakimies
 Wasteland - Autiomaa
+Octopus - Mustekala
