@@ -188,3 +188,4 @@ Cotton - Puuvilla
 Lawyer - Lakimies
 Wasteland - Autiomaa
 Octopus - Mustekala
+Handsome - Komea
