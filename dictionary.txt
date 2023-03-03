@@ -190,3 +190,4 @@ Wasteland - Autiomaa
 Octopus - Mustekala
 Handsome - Komea
 Really - Todella
+Art - Taide
