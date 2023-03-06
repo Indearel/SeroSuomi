@@ -192,3 +192,4 @@ Handsome - Komea
 Really - Todella
 Art - Taide
 North - Pohjoinen
+Bathroom - Kylpyhuone
