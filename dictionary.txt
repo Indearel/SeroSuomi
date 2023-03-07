@@ -193,3 +193,4 @@ Really - Todella
 Art - Taide
 North - Pohjoinen
 Bathroom - Kylpyhuone
+Wednesday - Keskiviikko
