@@ -194,3 +194,4 @@ Art - Taide
 North - Pohjoinen
 Bathroom - Kylpyhuone
 Wednesday - Keskiviikko
+Absent - Poissa
