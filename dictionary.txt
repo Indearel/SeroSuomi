@@ -195,3 +195,4 @@ North - Pohjoinen
 Bathroom - Kylpyhuone
 Wednesday - Keskiviikko
 Absent - Poissa
+Retire - Jäädä Eläkkeelle
