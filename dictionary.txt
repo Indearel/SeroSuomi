@@ -197,3 +197,4 @@ Wednesday - Keskiviikko
 Absent - Poissa
 Retire - Jäädä Eläkkeelle
 Full - Täynnä
+Spring - Kevät
