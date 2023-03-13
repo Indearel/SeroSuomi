@@ -198,3 +198,4 @@ Absent - Poissa
 Retire - Jäädä Eläkkeelle
 Full - Täynnä
 Spring - Kevät
+Eye - Silmä
