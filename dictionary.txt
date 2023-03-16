@@ -201,3 +201,4 @@ Spring - Kevät
 Eye - Silmä
 Lesson - Oppitunti
 Lesson - Selittää
+God - Jumala
