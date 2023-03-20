@@ -203,3 +203,4 @@ Lesson - Oppitunti
 Lesson - Selittää
 God - Jumala
 Morning - Aamu
+Bed - Sänky
