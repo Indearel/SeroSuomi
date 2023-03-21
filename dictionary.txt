@@ -204,3 +204,4 @@ Lesson - Selittää
 God - Jumala
 Morning - Aamu
 Bed - Sänky
+Ticket - Lippu
