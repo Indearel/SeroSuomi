@@ -205,3 +205,4 @@ God - Jumala
 Morning - Aamu
 Bed - Sänky
 Ticket - Lippu
+Cook - Laaitta Ruokaa
