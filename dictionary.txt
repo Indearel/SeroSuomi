@@ -206,3 +206,4 @@ Morning - Aamu
 Bed - Sänky
 Ticket - Lippu
 Cook - Laaitta Ruokaa
+Gracious - Armollinen
