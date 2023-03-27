@@ -208,3 +208,4 @@ Ticket - Lippu
 Cook - Laaitta Ruokaa
 Gracious - Armollinen
 Platform - Junalaituri
+Belt - Vyö
