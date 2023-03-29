@@ -210,3 +210,4 @@ Gracious - Armollinen
 Platform - Junalaituri
 Belt - Vyö
 Headphones - Kuulokkeet
+Coin - Kolikko
