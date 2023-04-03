@@ -212,3 +212,4 @@ Belt - Vyö
 Headphones - Kuulokkeet
 Coin - Kolikko
 Brain - Aivot
+Neck - Kaula
