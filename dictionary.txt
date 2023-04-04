@@ -213,3 +213,4 @@ Headphones - Kuulokkeet
 Coin - Kolikko
 Brain - Aivot
 Neck - Kaula
+Ruler - Viivoitin
