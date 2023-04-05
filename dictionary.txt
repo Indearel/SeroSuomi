@@ -214,3 +214,4 @@ Coin - Kolikko
 Brain - Aivot
 Neck - Kaula
 Ruler - Viivoitin
+Letter - Kirjain
