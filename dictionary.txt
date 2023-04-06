@@ -215,3 +215,4 @@ Brain - Aivot
 Neck - Kaula
 Ruler - Viivoitin
 Letter - Kirjain
+Aspect - Nähökohta
