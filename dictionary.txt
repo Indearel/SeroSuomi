@@ -216,3 +216,4 @@ Neck - Kaula
 Ruler - Viivoitin
 Letter - Kirjain
 Aspect - Nähökohta
+Bone - Luu
