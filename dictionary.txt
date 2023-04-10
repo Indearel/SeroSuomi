@@ -218,3 +218,4 @@ Letter - Kirjain
 Aspect - Nähökohta
 Bone - Luu
 Hope - Toivoa
+Leader - Johtaja
