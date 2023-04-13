@@ -221,3 +221,4 @@ Hope - Toivoa
 Leader - Johtaja
 Grapefruit - Greippi
 Round - Pyöreä
+Linen - Pellava
