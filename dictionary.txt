@@ -222,3 +222,4 @@ Leader - Johtaja
 Grapefruit - Greippi
 Round - Pyöreä
 Linen - Pellava
+Typhoon - Hirmumyrsky
