@@ -224,3 +224,4 @@ Round - Pyöreä
 Linen - Pellava
 Typhoon - Hirmumyrsky
 Cheap - Halpa
+Dangerous - Vaarallinen
