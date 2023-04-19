@@ -226,3 +226,4 @@ Typhoon - Hirmumyrsky
 Cheap - Halpa
 Dangerous - Vaarallinen
 Easy - Helppo
+Tire - Rengas
