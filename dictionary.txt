@@ -227,3 +227,4 @@ Cheap - Halpa
 Dangerous - Vaarallinen
 Easy - Helppo
 Tire - Rengas
+Fridge - Jääkaappi
