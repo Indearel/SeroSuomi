@@ -228,3 +228,4 @@ Dangerous - Vaarallinen
 Easy - Helppo
 Tire - Rengas
 Fridge - Jääkaappi
+Tranquility - Tyyneys
