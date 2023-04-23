@@ -229,3 +229,4 @@ Easy - Helppo
 Tire - Rengas
 Fridge - Jääkaappi
 Tranquility - Tyyneys
+Beginning - Alku
