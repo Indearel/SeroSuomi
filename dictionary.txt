@@ -230,3 +230,4 @@ Tire - Rengas
 Fridge - Jääkaappi
 Tranquility - Tyyneys
 Beginning - Alku
+Dye - Värjätä
