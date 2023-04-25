@@ -231,3 +231,4 @@ Fridge - Jääkaappi
 Tranquility - Tyyneys
 Beginning - Alku
 Dye - Värjätä
+Desktop_PC - Pöytätietokone
