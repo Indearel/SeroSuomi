@@ -232,3 +232,4 @@ Tranquility - Tyyneys
 Beginning - Alku
 Dye - Värjätä
 Desktop_PC - Pöytätietokone
+Lake - Järvi
