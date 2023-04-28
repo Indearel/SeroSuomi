@@ -231,5 +231,6 @@ Fridge - Jääkaappi
 Tranquility - Tyyneys
 Beginning - Alku
 Dye - Värjätä
-Desktop_PC - Pöytätietokone
+Desktop PC - Pöytätietokone
 Lake - Järvi
+Ice skating - Luistelu
