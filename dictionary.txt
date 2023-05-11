@@ -238,3 +238,4 @@ Sizo - Koko
 Mountain - Vuori
 Raccoon - Pesukarhu
 Train track - Junaraide
+Glasses - Silmälasit
