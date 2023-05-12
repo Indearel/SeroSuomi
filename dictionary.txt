@@ -239,3 +239,4 @@ Mountain - Vuori
 Raccoon - Pesukarhu
 Train track - Junaraide
 Glasses - Silmälasit
+Surgery - Leikkaus
