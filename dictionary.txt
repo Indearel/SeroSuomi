@@ -241,3 +241,4 @@ Train track - Junaraide
 Glasses - Silmälasit
 Surgery - Leikkaus
 Gold - Kulta
+Taste - Maistaa
