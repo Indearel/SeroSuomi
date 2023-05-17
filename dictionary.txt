@@ -243,3 +243,4 @@ Surgery - Leikkaus
 Gold - Kulta
 Taste - Maistaa
 Importsnt - Tärkeä
+Anxious - Innokas 
