@@ -246,3 +246,4 @@ Importsnt - Tärkeä
 Anxious - Innokas 
 Angry - Vihainen
 Silver - Hopea
+Past - Ohi
