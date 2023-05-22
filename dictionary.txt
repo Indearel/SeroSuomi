@@ -247,3 +247,4 @@ Anxious - Innokas
 Angry - Vihainen
 Silver - Hopea
 Past - Ohi
+Desk - Työpöytä
