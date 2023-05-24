@@ -248,3 +248,4 @@ Angry - Vihainen
 Silver - Hopea
 Past - Ohi
 Desk - Työpöytä
+Whale - Valas
