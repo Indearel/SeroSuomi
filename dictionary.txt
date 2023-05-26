@@ -250,3 +250,4 @@ Past - Ohi
 Desk - Työpöytä
 Whale - Valas
 Blackboard - Liitutaulu
+Tie - Solmio
