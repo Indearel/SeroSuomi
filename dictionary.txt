@@ -251,3 +251,4 @@ Desk - Työpöytä
 Whale - Valas
 Blackboard - Liitutaulu
 Tie - Solmio
+Hat - Hattu
