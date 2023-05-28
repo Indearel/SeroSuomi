@@ -252,3 +252,4 @@ Whale - Valas
 Blackboard - Liitutaulu
 Tie - Solmio
 Hat - Hattu
+Cage - Häkki
