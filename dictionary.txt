@@ -253,3 +253,4 @@ Blackboard - Liitutaulu
 Tie - Solmio
 Hat - Hattu
 Cage - Häkki
+Fit - Sopivuus
