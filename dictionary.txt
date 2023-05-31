@@ -255,3 +255,4 @@ Hat - Hattu
 Cage - Häkki
 Fit - Sopivuus
 Exit - Poistua
+Luggage - Matkatavarat
