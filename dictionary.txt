@@ -258,3 +258,4 @@ Exit - Poistua
 Luggage - Matkatavarat
 Child - Lapsi
 Coupon - Kuponki
+Disappear - Kadota
