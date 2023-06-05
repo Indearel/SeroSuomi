@@ -259,3 +259,4 @@ Luggage - Matkatavarat
 Child - Lapsi
 Coupon - Kuponki
 Disappear - Kadota
+Child - Vauva
