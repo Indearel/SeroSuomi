@@ -260,3 +260,4 @@ Child - Lapsi
 Coupon - Kuponki
 Disappear - Kadota
 Child - Vauva
+Wedding - Häät
