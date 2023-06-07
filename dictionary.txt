@@ -261,3 +261,4 @@ Coupon - Kuponki
 Disappear - Kadota
 Child - Vauva
 Wedding - Häät
+Sweet - Makea
