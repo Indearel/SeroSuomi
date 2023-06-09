@@ -263,3 +263,4 @@ Child - Vauva
 Wedding - Häät
 Sweet - Makea
 Folder - Kansio
+Friday - Perjantai
