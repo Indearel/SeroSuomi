@@ -264,3 +264,4 @@ Wedding - Häät
 Sweet - Makea
 Folder - Kansio
 Friday - Perjantai
+Monday - Maanantai
