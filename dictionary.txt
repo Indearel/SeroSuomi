@@ -265,3 +265,4 @@ Sweet - Makea
 Folder - Kansio
 Friday - Perjantai
 Monday - Maanantai
+Tuesday - Tiistai
