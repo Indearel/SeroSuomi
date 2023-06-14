@@ -266,3 +266,4 @@ Folder - Kansio
 Friday - Perjantai
 Monday - Maanantai
 Tuesday - Tiistai
+Wednesday - Keskiviikko
