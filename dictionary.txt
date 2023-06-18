@@ -269,3 +269,4 @@ Tuesday - Tiistai
 Wednesday - Keskiviikko
 Tuesday - Tiistai
 Snake - KäärmeSaturday - Lauantai
+Sunday - Sunnuntai
