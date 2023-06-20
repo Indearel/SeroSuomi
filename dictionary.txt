@@ -271,3 +271,4 @@ Tuesday - Tiistai
 Snake - KäärmeSaturday - Lauantai
 Sunday - Sunnuntai
 Reservation - Varaus
+Trouble - Vika
