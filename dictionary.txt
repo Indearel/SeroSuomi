@@ -273,3 +273,4 @@ Sunday - Sunnuntai
 Reservation - Varaus
 Trouble - Vika
 Training - Koulutus
+Bedroom - Makuuhuone
