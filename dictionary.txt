@@ -274,3 +274,4 @@ Reservation - Varaus
 Trouble - Vika
 Training - Koulutus
 Bedroom - Makuuhuone
+Strawberry - Mansikka
