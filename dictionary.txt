@@ -275,3 +275,4 @@ Trouble - Vika
 Training - Koulutus
 Bedroom - Makuuhuone
 Strawberry - Mansikka
+Identify - Tunnistaa
