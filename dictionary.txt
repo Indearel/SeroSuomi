@@ -276,3 +276,4 @@ Training - Koulutus
 Bedroom - Makuuhuone
 Strawberry - Mansikka
 Identify - Tunnistaa
+Sopa - Saippua
