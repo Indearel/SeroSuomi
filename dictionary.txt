@@ -277,3 +277,4 @@ Bedroom - Makuuhuone
 Strawberry - Mansikka
 Identify - Tunnistaa
 Sopa - Saippua
+Mechanical pencil - Lyijytäytekynä
