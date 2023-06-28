@@ -278,3 +278,4 @@ Strawberry - Mansikka
 Identify - Tunnistaa
 Sopa - Saippua
 Mechanical pencil - Lyijytäytekynä
+Shore - Ranta
