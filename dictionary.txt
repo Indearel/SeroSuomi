@@ -284,3 +284,4 @@ Coal - Kivihiili
 Performance - Suorituskyky
 Memorable - Mieleenpainuva
 Recommend - Suosittelen
+Mouse - Hiiri
