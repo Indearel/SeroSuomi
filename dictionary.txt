@@ -285,3 +285,4 @@ Performance - Suorituskyky
 Memorable - Mieleenpainuva
 Recommend - Suosittelen
 Mouse - Hiiri
+Liberty - Vapaus
