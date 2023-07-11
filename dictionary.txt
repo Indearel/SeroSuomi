@@ -286,3 +286,4 @@ Memorable - Mieleenpainuva
 Recommend - Suosittelen
 Mouse - Hiiri
 Liberty - Vapaus
+Headache - Päänsärky
