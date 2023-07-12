@@ -287,3 +287,4 @@ Recommend - Suosittelen
 Mouse - Hiiri
 Liberty - Vapaus
 Headache - Päänsärky
+Shoe - Kenkä
