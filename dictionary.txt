@@ -290,3 +290,4 @@ Headache - Päänsärky
 Shoe - Kenkä
 Mature - Kypsä
 Jeans - Farkut
+Straw - Olki
