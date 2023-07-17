@@ -291,3 +291,4 @@ Shoe - Kenkä
 Mature - Kypsä
 Jeans - Farkut
 Straw - Olki
+Mature - Kypsä
