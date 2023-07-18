@@ -292,3 +292,4 @@ Mature - Kypsä
 Jeans - Farkut
 Straw - Olki
 Mature - Kypsä
+Cough - Yskiä 
