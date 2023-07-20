@@ -268,7 +268,8 @@ Monday - Maanantai
 Tuesday - Tiistai
 Wednesday - Keskiviikko
 Tuesday - Tiistai
-Snake - KäärmeSaturday - Lauantai
+Snake - Käärme
+Saturday - Lauantai
 Sunday - Sunnuntai
 Reservation - Varaus
 Trouble - Vika
@@ -294,3 +295,4 @@ Straw - Olki
 Mature - Kypsä
 Cough - Yskiä 
 Angry - Vihainen
+Lonely - Yksinäinen
