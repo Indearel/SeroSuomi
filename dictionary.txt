@@ -296,3 +296,4 @@ Mature - Kypsä
 Cough - Yskiä 
 Angry - Vihainen
 Lonely - Yksinäinen
+Explanation - Selitys
