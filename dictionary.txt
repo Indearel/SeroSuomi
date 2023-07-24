@@ -298,3 +298,4 @@ Angry - Vihainen
 Lonely - Yksinäinen
 Explanation - Selitys
 Fight - Taistella
+Break - Rikkoa
