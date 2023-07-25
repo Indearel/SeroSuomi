@@ -299,3 +299,4 @@ Lonely - Yksinäinen
 Explanation - Selitys
 Fight - Taistella
 Break - Rikkoa
+Class - Oppitunti
