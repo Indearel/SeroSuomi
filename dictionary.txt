@@ -300,3 +300,4 @@ Explanation - Selitys
 Fight - Taistella
 Break - Rikkoa
 Class - Oppitunti
+Revise - Tarkistaa
