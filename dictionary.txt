@@ -301,3 +301,4 @@ Fight - Taistella
 Break - Rikkoa
 Class - Oppitunti
 Revise - Tarkistaa
+Happy - Onnelinnen
