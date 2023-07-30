@@ -302,3 +302,4 @@ Break - Rikkoa
 Class - Oppitunti
 Revise - Tarkistaa
 Happy - Onnelinnen
+Weight - Paino
