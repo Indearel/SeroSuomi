@@ -303,3 +303,4 @@ Class - Oppitunti
 Revise - Tarkistaa
 Happy - Onnelinnen
 Weight - Paino
+Tent - Teltta
