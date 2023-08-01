@@ -304,3 +304,4 @@ Revise - Tarkistaa
 Happy - Onnelinnen
 Weight - Paino
 Tent - Teltta
+Ladle - Kauha
