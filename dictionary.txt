@@ -305,3 +305,4 @@ Happy - Onnelinnen
 Weight - Paino
 Tent - Teltta
 Ladle - Kauha
+Tent - Teltta
