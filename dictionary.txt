@@ -307,3 +307,4 @@ Tent - Teltta
 Ladle - Kauha
 Tent - Teltta
 Intend - Aikovat
+Awesome - Mahtava
