@@ -308,3 +308,4 @@ Ladle - Kauha
 Tent - Teltta
 Intend - Aikovat
 Awesome - Mahtava
+Angry - Vihainen
