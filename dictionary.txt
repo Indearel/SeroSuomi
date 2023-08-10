@@ -309,3 +309,4 @@ Tent - Teltta
 Intend - Aikovat
 Awesome - Mahtava
 Angry - Vihainen
+Ainakin - At least
