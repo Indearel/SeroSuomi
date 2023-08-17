@@ -311,3 +311,4 @@ Awesome - Mahtava
 Angry - Vihainen
 Ainakin - At least
 Customer - Asiakas
+Pregnancy - Raskaus
