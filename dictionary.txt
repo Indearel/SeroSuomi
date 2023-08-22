@@ -313,3 +313,4 @@ Ainakin - At least
 Customer - Asiakas
 Pregnancy - Raskaus
 Spice - Mauste
+Fundations - Perustukset
