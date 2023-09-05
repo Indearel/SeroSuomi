@@ -321,3 +321,4 @@ Train - Juna
 Cold - Kylmä
 Brain - Aivot
 Story - Tarina
+Supply - Toimittaa
