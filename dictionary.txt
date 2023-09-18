@@ -322,3 +322,4 @@ Cold - Kylmä
 Brain - Aivot
 Story - Tarina
 Supply - Toimittaa
+Turtle - Kilpikonna
