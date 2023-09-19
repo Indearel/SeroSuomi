@@ -323,3 +323,4 @@ Brain - Aivot
 Story - Tarina
 Supply - Toimittaa
 Turtle - Kilpikonna
+Deer - Hirvi
