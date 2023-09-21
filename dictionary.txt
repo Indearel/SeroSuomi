@@ -325,3 +325,4 @@ Supply - Toimittaa
 Turtle - Kilpikonna
 Deer - Hirvi
 Puppy - Pentu
+Fresh - Tuore
