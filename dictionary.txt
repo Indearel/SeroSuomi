@@ -326,3 +326,4 @@ Turtle - Kilpikonna
 Deer - Hirvi
 Puppy - Pentu
 Fresh - Tuore
+Blood - Veri
