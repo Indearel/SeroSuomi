@@ -330,3 +330,4 @@ Blood - Veri
 Satisfy - Tyydyttää
 Forest - Metsä
 Ladder - Tikkaat
+Time - Aika
