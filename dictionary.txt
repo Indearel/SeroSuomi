@@ -331,3 +331,4 @@ Satisfy - Tyydyttää
 Forest - Metsä
 Ladder - Tikkaat
 Time - Aika
+Degree - Aste
