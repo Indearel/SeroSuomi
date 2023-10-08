@@ -333,3 +333,4 @@ Ladder - Tikkaat
 Time - Aika
 Degree - Aste
 Dragon - Lohikäärme
+Autumn - Syksy
