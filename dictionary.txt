@@ -334,3 +334,4 @@ Time - Aika
 Degree - Aste
 Dragon - Lohikäärme
 Autumn - Syksy
+Coin - Kolikko
