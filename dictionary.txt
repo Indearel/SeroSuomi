@@ -337,3 +337,4 @@ Autumn - Syksy
 Coin - Kolikko
 Exactly - Täsmälleen
 Shallow - Matala
+Fabric - Kangas
