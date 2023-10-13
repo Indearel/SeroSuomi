@@ -338,3 +338,4 @@ Coin - Kolikko
 Exactly - Täsmälleen
 Shallow - Matala
 Fabric - Kangas
+Power - Teho
