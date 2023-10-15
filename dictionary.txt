@@ -339,3 +339,4 @@ Exactly - Täsmälleen
 Shallow - Matala
 Fabric - Kangas
 Power - Teho
+Elections - Vaalit
