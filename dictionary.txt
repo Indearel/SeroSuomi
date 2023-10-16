@@ -340,3 +340,4 @@ Shallow - Matala
 Fabric - Kangas
 Power - Teho
 Elections - Vaalit
+Finally - Lopuksi
