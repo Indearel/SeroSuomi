@@ -341,3 +341,4 @@ Fabric - Kangas
 Power - Teho
 Elections - Vaalit
 Finally - Lopuksi
+Thousand - Tuhatta
