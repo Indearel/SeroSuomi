@@ -342,3 +342,4 @@ Power - Teho
 Elections - Vaalit
 Finally - Lopuksi
 Thousand - Tuhatta
+Extra - Ylimääräinen
