@@ -343,3 +343,4 @@ Elections - Vaalit
 Finally - Lopuksi
 Thousand - Tuhatta
 Extra - Ylimääräinen
+Investigate - Tutki
