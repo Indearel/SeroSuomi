@@ -344,3 +344,4 @@ Finally - Lopuksi
 Thousand - Tuhatta
 Extra - Ylimääräinen
 Investigate - Tutki
+Heart - Sydän
