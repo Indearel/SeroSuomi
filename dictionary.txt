@@ -234,7 +234,7 @@ Dye - Värjätä
 Desktop PC - Pöytätietokone
 Lake - Järvi
 Ice skating - Luistelu
-Sizo - Koko
+Sizo - KokoPeruna5*
 Mountain - Vuori
 Raccoon - Pesukarhu
 Train track - Junaraide
