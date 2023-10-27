@@ -347,3 +347,4 @@ Investigate - Tutki
 Heart - Sydän
 Common - Yhteinen
 Meet - Tavata
+Hope - Toivoa
