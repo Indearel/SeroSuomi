@@ -348,3 +348,4 @@ Heart - Sydän
 Common - Yhteinen
 Meet - Tavata
 Hope - Toivoa
+Special - Erityinen
