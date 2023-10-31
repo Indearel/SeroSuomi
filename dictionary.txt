@@ -349,3 +349,4 @@ Common - Yhteinen
 Meet - Tavata
 Hope - Toivoa
 Special - Erityinen
+Choice - Valinta
