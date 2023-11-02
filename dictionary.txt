@@ -350,3 +350,4 @@ Meet - Tavata
 Hope - Toivoa
 Special - Erityinen
 Choice - Valinta
+Stress - Korostaa
