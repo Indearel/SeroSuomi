@@ -351,3 +351,4 @@ Hope - Toivoa
 Special - Erityinen
 Choice - Valinta
 Stress - Korostaa
+Blackstain test - Musteläiskätesti
