@@ -353,3 +353,4 @@ Choice - Valinta
 Stress - Korostaa
 Blackstain test - Musteläiskätesti
 Free - Vapaan
+Tired - Väsynyt
