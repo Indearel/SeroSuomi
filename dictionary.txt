@@ -358,3 +358,4 @@ Danger - Vaara
 Sky - Taivas
 Guide - Ohjaavat
 Kiss - Suudella
+Rich - Rikas
