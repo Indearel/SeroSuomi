@@ -359,3 +359,4 @@ Sky - Taivas
 Guide - Ohjaavat
 Kiss - Suudella
 Rich - Rikas
+Future - Tulevaisuus
