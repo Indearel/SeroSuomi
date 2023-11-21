@@ -361,3 +361,4 @@ Kiss - Suudella
 Rich - Rikas
 Future - Tulevaisuus
 Dark - Tumma
+Willpower - Tahdonvoima
