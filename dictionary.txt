@@ -363,3 +363,4 @@ Future - Tulevaisuus
 Dark - Tumma
 Willpower - Tahdonvoima
 Roleplaying games - Roolipelit
+Very - Hyvin
