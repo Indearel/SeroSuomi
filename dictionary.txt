@@ -365,3 +365,4 @@ Willpower - Tahdonvoima
 Roleplaying games - Roolipelit
 Very - Hyvin
 Fir - Kuusi
+Help - Apua
