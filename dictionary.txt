@@ -367,3 +367,4 @@ Very - Hyvin
 Fir - Kuusi
 Help - Apua
 True - Totta
+Charger - Laturia
