@@ -368,3 +368,4 @@ Fir - Kuusi
 Help - Apua
 True - Totta
 Charger - Laturia
+Elevator - Hissi
