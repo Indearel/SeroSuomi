@@ -370,3 +370,4 @@ True - Totta
 Charger - Laturia
 Elevator - Hissi
 Independence - Itsenäisyys
+Freight - Rahti
