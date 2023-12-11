@@ -372,3 +372,4 @@ Elevator - Hissi
 Independence - Itsenäisyys
 Freight - Rahti
 Drug - Huume
+Patience - Kärsivällisyys
