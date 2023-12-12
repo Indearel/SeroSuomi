@@ -373,3 +373,4 @@ Independence - Itsenäisyys
 Freight - Rahti
 Drug - Huume
 Patience - Kärsivällisyys
+So-so - Niin ja Näin
