@@ -378,3 +378,4 @@ Suunnitelma - Plan
 School Desk - Pulpetti
 Dot - Piste
 Volcano - Tulivuori
+Calness - Rauhallisuus
