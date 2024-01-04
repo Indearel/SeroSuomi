@@ -379,3 +379,4 @@ School Desk - Pulpetti
 Dot - Piste
 Volcano - Tulivuori
 Calness - Rauhallisuus
+Firefighter - Palomies
