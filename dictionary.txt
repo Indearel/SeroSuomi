@@ -380,3 +380,4 @@ Dot - Piste
 Volcano - Tulivuori
 Calness - Rauhallisuus
 Firefighter - Palomies
+Courage - Rohkeus 
