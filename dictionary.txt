@@ -381,3 +381,4 @@ Volcano - Tulivuori
 Calness - Rauhallisuus
 Firefighter - Palomies
 Courage - Rohkeus 
+Cousin - Serkku
