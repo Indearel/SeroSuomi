@@ -402,3 +402,4 @@ Check - Tarkstaa
 Beanie - Pipo
 Respect - Kunnioitus
 Breading - Korppujauho
+Finish - Lopettaa
