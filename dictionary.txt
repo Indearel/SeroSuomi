@@ -382,3 +382,4 @@ Calness - Rauhallisuus
 Firefighter - Palomies
 Courage - Rohkeus 
 Cousin - Serkku
+Remain - Jäädä
