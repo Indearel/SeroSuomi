@@ -383,3 +383,4 @@ Firefighter - Palomies
 Courage - Rohkeus 
 Cousin - Serkku
 Remain - Jäädä
+Level - Taso
