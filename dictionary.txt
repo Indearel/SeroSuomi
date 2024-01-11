@@ -384,3 +384,4 @@ Courage - Rohkeus
 Cousin - Serkku
 Remain - Jäädä
 Level - Taso
+Beard - Parta
