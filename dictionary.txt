@@ -385,3 +385,4 @@ Cousin - Serkku
 Remain - Jäädä
 Level - Taso
 Beard - Parta
+Solve - Ratkaista
