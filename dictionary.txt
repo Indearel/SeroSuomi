@@ -386,3 +386,4 @@ Remain - Jäädä
 Level - Taso
 Beard - Parta
 Solve - Ratkaista
+Left - Jäljellä
