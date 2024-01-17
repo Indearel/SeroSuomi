@@ -387,3 +387,4 @@ Level - Taso
 Beard - Parta
 Solve - Ratkaista
 Left - Jäljellä
+Line - Viiva
