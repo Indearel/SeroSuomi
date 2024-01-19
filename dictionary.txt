@@ -388,3 +388,5 @@ Beard - Parta
 Solve - Ratkaista
 Left - Jäljellä
 Line - Viiva
+Yard - Piha
+Aware - Tietoinen
