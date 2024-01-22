@@ -390,3 +390,4 @@ Left - Jäljellä
 Line - Viiva
 Yard - Piha
 Aware - Tietoinen
+Encourage - Kannustaa
