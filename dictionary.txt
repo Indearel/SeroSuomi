@@ -391,3 +391,4 @@ Line - Viiva
 Yard - Piha
 Aware - Tietoinen
 Encourage - Kannustaa
+Factory - Tehdas
