@@ -394,3 +394,4 @@ Encourage - Kannustaa
 Factory - Tehdas
 Matter - Asia
 Busy - Kiireisenä
+Chain - Ketju
