@@ -396,3 +396,4 @@ Matter - Asia
 Busy - Kiireisenä
 Chain - Ketju
 Meeting - Kokous
+Pallo - Ballon
