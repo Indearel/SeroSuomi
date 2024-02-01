@@ -397,3 +397,4 @@ Busy - Kiireisenä
 Chain - Ketju
 Meeting - Kokous
 Pallo - Ballon
+Try - Yritä
