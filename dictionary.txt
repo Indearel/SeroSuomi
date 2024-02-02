@@ -398,3 +398,4 @@ Chain - Ketju
 Meeting - Kokous
 Pallo - Ballon
 Try - Yritä
+Check - Tarkstaa
