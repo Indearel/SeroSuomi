@@ -400,3 +400,4 @@ Pallo - Ballon
 Try - Yritä
 Check - Tarkstaa
 Beanie - Pipo
+Respect - Kunnioitus
