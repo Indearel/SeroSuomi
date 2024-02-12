@@ -374,7 +374,7 @@ Freight - Rahti
 Drug - Huume
 Patience - Kärsivällisyys
 So-so - Niin ja Näin
-Suunnitelma - Plan
+Plan - Suunnitelma
 School Desk - Pulpetti
 Dot - Piste
 Volcano - Tulivuori
@@ -403,3 +403,4 @@ Beanie - Pipo
 Respect - Kunnioitus
 Breading - Korppujauho
 Finish - Lopettaa
+Clear - Selvä
