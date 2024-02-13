@@ -404,3 +404,4 @@ Respect - Kunnioitus
 Breading - Korppujauho
 Finish - Lopettaa
 Clear - Selvä
+Putki - Pipe
