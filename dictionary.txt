@@ -405,3 +405,4 @@ Breading - Korppujauho
 Finish - Lopettaa
 Clear - Selvä
 Putki - Pipe
+Waist - Vyötärö
