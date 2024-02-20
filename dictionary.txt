@@ -406,3 +406,4 @@ Finish - Lopettaa
 Clear - Selvä
 Putki - Pipe
 Waist - Vyötärö
+Dates - Taateleita
