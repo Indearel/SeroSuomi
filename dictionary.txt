@@ -407,3 +407,4 @@ Clear - Selvä
 Putki - Pipe
 Waist - Vyötärö
 Dates - Taateleita
+Turn off - Sammuttaa
