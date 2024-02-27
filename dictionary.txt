@@ -410,3 +410,4 @@ Dates - Taateleita
 Turn off - Sammuttaa
 Via - Kautta
 Tired - Väsynyt
+Peace - Rauha
