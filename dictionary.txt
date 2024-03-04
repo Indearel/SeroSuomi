@@ -413,3 +413,4 @@ Tired - Väsynyt
 Peace - Rauha
 Lottery - Arpajaiset
 Pink - Pinkki
+Gesture - Viittoilla
