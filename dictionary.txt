@@ -415,3 +415,4 @@ Lottery - Arpajaiset
 Pink - Pinkki
 Gesture - Viittoilla
 Nose - Nenä
+Bright - Valoisa
