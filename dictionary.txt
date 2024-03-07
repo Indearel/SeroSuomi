@@ -416,3 +416,4 @@ Pink - Pinkki
 Gesture - Viittoilla
 Nose - Nenä
 Bright - Valoisa
+Once - Kerta
