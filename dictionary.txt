@@ -426,3 +426,4 @@ Carton - Kartonki
 At first - Aluksi
 Neck - Kaula
 Train - Juna
+Stairs - Portaat
