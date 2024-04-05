@@ -427,3 +427,4 @@ At first - Aluksi
 Neck - Kaula
 Train - Juna
 Stairs - Portaat
+Shooter - Ampuja
