@@ -428,3 +428,4 @@ Neck - Kaula
 Train - Juna
 Stairs - Portaat
 Shooter - Ampuja
+Belly - Vatsa
