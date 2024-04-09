@@ -429,3 +429,4 @@ Train - Juna
 Stairs - Portaat
 Shooter - Ampuja
 Belly - Vatsa
+Hangover - Krapula
