@@ -431,3 +431,4 @@ Shooter - Ampuja
 Belly - Vatsa
 Hangover - Krapula
 Fire - Tulipalo
+Pirate - Merirosvo
