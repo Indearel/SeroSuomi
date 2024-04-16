@@ -193,7 +193,7 @@ Really - Todella
 Art - Taide
 North - Pohjoinen
 Bathroom - Kylpyhuone
-Wednesday - Keskiviikko
+Rock - Kivi
 Absent - Poissa
 Retire - Jäädä Eläkkeelle
 Full - Täynnä
@@ -432,3 +432,4 @@ Belly - Vatsa
 Hangover - Krapula
 Fire - Tulipalo
 Pirate - Merirosvo
+Watch - Katsella
