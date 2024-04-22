@@ -434,3 +434,4 @@ Fire - Tulipalo
 Pirate - Merirosvo
 Watch - Katsella
 Problem - Ongelma
+Faith - Usko
