@@ -437,3 +437,4 @@ Problem - Ongelma
 Faith - Usko
 Bay - Lahti
 Window - Ikkuna
+Place - Paika
