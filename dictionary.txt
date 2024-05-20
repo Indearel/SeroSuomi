@@ -441,3 +441,4 @@ Place - Paika
 Tentatively - Alustavasti
 Dictonary - Sanakirja
 Kettle - Teepannu
+Password - Salasana
