@@ -444,3 +444,4 @@ Kettle - Teepannu
 Password - Salasana
 Dash - Viiva
 Seagull - Lokki
+Short - Lyhyt
